@@ -1,2 +1,1 @@
-# demo1
-test project dash board
+# submgt-ui
